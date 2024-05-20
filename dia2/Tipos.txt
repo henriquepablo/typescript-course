@@ -2,3 +2,8 @@
 O typescrit tem tem os tipos do javascript e aceita outros.
 Tipos do Javascript: Number, String Boolean, Undefined, Object, Null
 Tipos do Typescrit: todos do JS e mais esses: Any, Unknow, Tuple, Never, Enum
+
+o Tipo ANY diz que quando declaramos uma variável e não atribuimos um valor a ela, ela vai aceitar qualquer tipo. Exemplo:
+
+let value;
+value = 10; value = 'Andre' Ou seja, a variável value vai aceitar qualquer tipo, pois não atribui nenhhum valor quando declarei ela.
