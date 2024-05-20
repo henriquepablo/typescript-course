@@ -1,0 +1,4 @@
+
+O typescrit tem tem os tipos do javascript e aceita outros.
+Tipos do Javascript: Number, String Boolean, Undefined, Object, Null
+Tipos do Typescrit: todos do JS e mais esses: Any, Unknow, Tuple, Never, Enum
