@@ -12,3 +12,9 @@ Tuple permite guardar uma quantidade exata de dados. Exemplo:
 let item: [string, number, Boolean] = ['Apple', 3, true];
 o código acima é um Tuple
 
+Tipo ENUM te permite enumerar informações. Exemplo:
+enum Role {
+    admin = 1,
+    read = 2,
+    backup = 3
+}
