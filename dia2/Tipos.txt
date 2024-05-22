@@ -7,3 +7,8 @@ o Tipo ANY diz que quando declaramos uma variável e não atribuimos um valor a 
 
 let value;
 value = 10; value = 'Andre' Ou seja, a variável value vai aceitar qualquer tipo, pois não atribui nenhhum valor quando declarei ela.
+
+Tuple permite guardar uma quantidade exata de dados. Exemplo:
+let item: [string, number, Boolean] = ['Apple', 3, true];
+o código acima é um Tuple
+
